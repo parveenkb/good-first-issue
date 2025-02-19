@@ -2,7 +2,11 @@
   {
     "name": "Parveen",
     "link": "https://github.com/fthmthwlm",
-    "style": { "background-color": "LightGreen" },
-    "dark": { "background-color": "DarkGreen" }
+    "style": {
+      "background-color": "LightGreen",
+      "width": "100vw",
+      "height": "100vh"
+    },
+    "dark": { "background-color": "Green" }
   }
 ]
